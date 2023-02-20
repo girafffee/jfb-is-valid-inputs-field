@@ -3,6 +3,8 @@ An addition to JetFormBuilder that registers a new statement for the conditional
 
 In the conditional block, you will be able to display the blocks if all the fields are filled in correctly. In this case, the value 1 will be in the hidden field.
 
+## _Warning!_
+The state of the conditional block or the value in the hidden field depends on _**all the fields**_ in the form, regardless of whether there are step-by-step filling (multistep) in it.
 
 ## Conditional Block Usage
 Add a conditional block with the following condition
