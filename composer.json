@@ -1,0 +1,19 @@
+{
+    "name": "hug.reed/jfb-is-valid-inputs-field",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Oleksandr Ivanenko",
+            "email": "sanko200065@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Jet_FB_Is_Valid_Inputs\\": "includes/"
+        }
+    },
+    "description": ""
+}
